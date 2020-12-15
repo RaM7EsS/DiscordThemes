@@ -2224,6 +2224,24 @@ padding: 0 !important;
     color: var(--main-color);
 }
 
+.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
+    background: #a3be8c !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
+}
+
+.winButtonClose-1HsbF- {
+    background: #bf616a !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
+}
+
 .da-appMount {
     background: var(--background-image);
 }
