@@ -46,6 +46,23 @@
 @import url(https://raw.githack.com/RaM7EsS/DiscordThemes/main/Neutron8/Core/custom-font.css);
 @import url(https://raw.githack.com/RaM7EsS/DiscordThemes/main/Neutron8/Core/hljs.css);
 
+:root {
+	--themeColor1: #36D1DC;
+	--themeColor2: #5B86E5;
+	--customFont: 'Open sans', sans-serif;
+	--homeImage: url('https://i.imgur.com/oOKwCVJ.png');
+	--homeImageSize: cover;
+	--backgroundColor: #0d0d0d;
+	--backgroundImage: url('https://i.imgur.com/zxXBhw1.jpg');
+	--backgroundPosition: center;
+	--backgroundSize: cover;
+	--backgroundRepeat: no-repeat;
+	--backgroundBlur: 100px;
+	--backgroundOpacity: .65;
+	--backgroundCode: rgba(0, 0, 0, .5);
+	--backgroundName: rgba(0, 0, 0, .5)
+}
+
 .titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
     background: #a3be8c !important;
     border-radius: 5px !important;
@@ -62,23 +79,6 @@
     height: 10px !important;
     margin: 5px 15px 5px 15px !important;
     transition: background-color 250ms ease-in;
-}
-
-:root {
-	--themeColor1: #36D1DC;
-	--themeColor2: #5B86E5;
-	--customFont: 'Open sans', sans-serif;
-	--homeImage: url('https://i.imgur.com/oOKwCVJ.png');
-	--homeImageSize: cover;
-	--backgroundColor: #0d0d0d;
-	--backgroundImage: url('https://i.imgur.com/zxXBhw1.jpg');
-	--backgroundPosition: center;
-	--backgroundSize: cover;
-	--backgroundRepeat: no-repeat;
-	--backgroundBlur: 100px;
-	--backgroundOpacity: .65;
-	--backgroundCode: rgba(0, 0, 0, .5);
-	--backgroundName: rgba(0, 0, 0, .5)
 }
 
 .appMount-3lHmkl,
