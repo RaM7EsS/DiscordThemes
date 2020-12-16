@@ -42,9 +42,9 @@
  */
 
 @import url(https://codedotspectra.github.io/themes/mini-themes/settingsIcons.css);
-@import url(https://codedotspectra.github.io/themes/core/badges.css);
-@import url(https://codedotspectra.github.io/themes/core/custom-font.css);
-@import url(https://codedotspectra.github.io/themes/core/hljs.css);
+@import url(https://raw.githack.com/RaM7EsS/DiscordThemes/main/Neutron8/Core/badges.css);
+@import url(https://raw.githack.com/RaM7EsS/DiscordThemes/main/Neutron8/Core/custom-font.css);
+@import url(https://raw.githack.com/RaM7EsS/DiscordThemes/main/Neutron8/Core/hljs.css);
 :root {
 	--themeColor1: #36D1DC;
 	--themeColor2: #5B86E5;
