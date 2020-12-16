@@ -576,7 +576,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     transition: background-color 250ms ease-in;
 }
 
-.winButtonClose-1HsbF- svg {
+.winButtonClose-1HsbF- {
     background: #bf616a !important;
     border-radius: 5px !important;
     width: 10px !important;
