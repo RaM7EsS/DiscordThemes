@@ -45,6 +45,25 @@
 @import url(https://raw.githack.com/RaM7EsS/DiscordThemes/main/Neutron8/Core/badges.css);
 @import url(https://raw.githack.com/RaM7EsS/DiscordThemes/main/Neutron8/Core/custom-font.css);
 @import url(https://raw.githack.com/RaM7EsS/DiscordThemes/main/Neutron8/Core/hljs.css);
+
+.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
+    background: #a3be8c !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
+}
+
+.winButtonClose-1HsbF- {
+    background: #bf616a !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
+}
+
 :root {
 	--themeColor1: #36D1DC;
 	--themeColor2: #5B86E5;
@@ -565,24 +584,6 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 
 .winButton-iRh8-Z:hover {
 	background-color: transparent
-}
-
-.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
-    background: #a3be8c !important;
-    border-radius: 5px !important;
-    width: 10px !important;
-    height: 10px !important;
-    margin: 5px 15px 5px 15px !important;
-    transition: background-color 250ms ease-in;
-}
-
-.winButtonClose-1HsbF- {
-    background: #bf616a !important;
-    border-radius: 5px !important;
-    width: 10px !important;
-    height: 10px !important;
-    margin: 5px 15px 5px 15px !important;
-    transition: background-color 250ms ease-in;
 }
 
 /*
