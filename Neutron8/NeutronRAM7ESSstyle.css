@@ -63,24 +63,6 @@
 	--backgroundName: rgba(0, 0, 0, .5)
 }
 
-.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
-    background: #a3be8c !important;
-    border-radius: 5px !important;
-    width: 10px !important;
-    height: 10px !important;
-    margin: 5px 15px 5px 15px !important;
-    transition: background-color 250ms ease-in;
-}
-
-.winButtonClose-1HsbF- {
-    background: #bf616a !important;
-    border-radius: 5px !important;
-    width: 10px !important;
-    height: 10px !important;
-    margin: 5px 15px 5px 15px !important;
-    transition: background-color 250ms ease-in;
-}
-
 .appMount-3lHmkl,
 body {
 	background-color: var(--backgroundColor)!important
@@ -2215,4 +2197,22 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 .bf-toolbar .format:hover {
 	background: linear-gradient(to right, var(--themeColor1), var(--themeColor2))!important;
 	color: #fff!important
+}
+
+.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
+    background: #a3be8c !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
+}
+
+.winButtonClose-1HsbF- {
+    background: #bf616a !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
 }
