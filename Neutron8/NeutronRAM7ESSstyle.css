@@ -125,11 +125,15 @@ body {
 	box-shadow: none!important
 }
 
+.scroller-1Bvpku{
+	background-color: var(--loftBar)!important
+}
+
 .wrapper-25eVIn .wrapper-1BJsBx[href*="/channels/@me"] .childWrapper-anI2G9,
 .wrapper-25eVIn .wrapper-1BJsBx[href="/library"] .childWrapper-anI2G9,
 .wrapper-25eVIn .wrapper-1BJsBx[href="/store"] .childWrapper-anI2G9 {
 	background-color: transparent;
-	background-position: center;
+	background-position: var(--homePosition);
 	background-repeat: no-repeat;
 	background-image: var(--homeImage);
 	background-size: var(--homeImageSize);
