@@ -1562,13 +1562,13 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 	padding: 0
 }
 
-.bd-addon-list .bda-header {
+.bd-addon-list .bd-addon-header {
 	border: none;
 	padding: 5px 20px;
 	background-color: rgba(0, 0, 0, .54)
 }
 
-.bda-name {
+.bd-name {
 	text-transform: uppercase;
 	background: -webkit-linear-gradient(80deg, var(--themeColor1), var(--themeColor2));
 	-webkit-background-clip: text;
