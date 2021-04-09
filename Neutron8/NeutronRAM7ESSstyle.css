@@ -125,7 +125,9 @@ body {
 	box-shadow: none!important
 }
 
-
+.theme-dark .wrapper-3NnKdC {
+    background-color: var(--leftBar);
+}
 .scroller-1Bvpku {
     background-color: transparent!important ;
 }
