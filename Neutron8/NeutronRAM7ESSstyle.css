@@ -125,8 +125,11 @@ body {
 	box-shadow: none!important
 }
 
-.scroller-1Bvpku{
-	background-color: var(--loftBar)!important
+.theme-dark .wrapper-3NnKdC {
+    background-color: var(--loftBar);
+}
+.scroller-1Bvpku {
+    background-color: transparent!important ;
 }
 
 .wrapper-25eVIn .wrapper-1BJsBx[href*="/channels/@me"] .childWrapper-anI2G9,
