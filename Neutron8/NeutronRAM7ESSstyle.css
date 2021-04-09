@@ -136,9 +136,9 @@ body {
 	background-clip: border-box
 }
 
-.wrapper-25eVIn .wrapper-1BJsBx[href*="/channels/@me"] .homeIcon-tEMBK1,
-.wrapper-25eVIn .wrapper-1BJsBx[href="/library"] .homeIcon-tEMBK1,
-.wrapper-25eVIn .wrapper-1BJsBx[href="/store"] .homeIcon-tEMBK1 {
+.wrapper-25eVIn .wrapper-1BJsBx[href*="/channels/@me"] .homeIcon-FuNwkv,
+.wrapper-25eVIn .wrapper-1BJsBx[href="/library"] .homeIcon-FuNwkv,
+.wrapper-25eVIn .wrapper-1BJsBx[href="/store"] .homeIcon-FuNwkv {
 	display: none
 }
 
@@ -2197,9 +2197,6 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 .bf-toolbar .format:hover {
 	background: linear-gradient(to right, var(--themeColor1), var(--themeColor2))!important;
 	color: #fff!important
-}/*
-.theme-dark .homeIcon-tEMBK1 {
-    display: none;
 }
 
 .wordmark-2iDDfm.wordmarkWindows-1v0lYD {
@@ -2207,6 +2204,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
   height: 22px;
   padding: 0 0 0 4px;
   line-height: 22px;
+  font-family: 'Montserrat'!important;
   font-size: 0.925em;
   color: var(--text-normal); }
 .wordmark-2iDDfm.wordmarkWindows-1v0lYD:before, .wordmark-2iDDfm.wordmarkWindows-1v0lYD:after {
@@ -2215,12 +2213,12 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
     height: 22px; }
 .wordmark-2iDDfm.wordmarkWindows-1v0lYD:before {
     content: "DISCORD";
-    font-weight: 700; }
+     }
 .wordmark-2iDDfm.wordmarkWindows-1v0lYD:after {
-    content: ", 𝐛𝐲 ☠RaM7Es5☠"; }
+    content: ", 𝐛𝐲 ⭐ RaM7Es5 ⭐"; }
 .wordmark-2iDDfm.wordmarkWindows-1v0lYD svg {
     display: none; }
-*/
+
 .titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
     background: #a3be8c !important;
     border-radius: 5px !important;
