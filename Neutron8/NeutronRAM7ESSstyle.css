@@ -47,20 +47,6 @@
 @import url(https://raw.githack.com/RaM7EsS/DiscordThemes/main/Neutron8/Core/hljs.css);
 
 :root {
-	--themeColor1: #36D1DC;
-	--themeColor2: #5B86E5;
-	--customFont: 'Open sans', sans-serif;
-	--homeImage: url('https://i.imgur.com/2sS8g0t.png');
-	--homeImageSize: cover;
-	--backgroundColor: #0d0d0d;
-	--backgroundImage: url('https://i.imgur.com/q1NaM3A.jpg');
-	--backgroundPosition: center;
-	--backgroundSize: cover;
-	--backgroundRepeat: no-repeat;
-	--backgroundBlur: 100px;
-	--backgroundOpacity: .65;
-	--backgroundCode: rgba(0, 0, 0, .5);
-	--backgroundName: rgba(0, 0, 0, .5)
 }
 
 .appMount-3lHmkl,
@@ -126,10 +112,10 @@ body {
 }
 
 .theme-dark .wrapper-3NnKdC {
-    background-color: var(--leftBar);
+    background-color: var(--leftBar)
 }
 .scroller-1Bvpku {
-    background-color: transparent!important ;
+    background-color: transparent!important
 }
 
 .wrapper-25eVIn .wrapper-1BJsBx[href*="/channels/@me"] .childWrapper-anI2G9,
